@@ -1,6 +1,6 @@
 # React + Vite + scss <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-<figure><img src="./mock/page_api_pokemon.png" alt="logo" style="height: 400px;"></figure>
+<figure><img src="/mock/page_api_pokemon.png" alt="logo" style="height: 400px;"></figure>
 
 ## Instructions
 
